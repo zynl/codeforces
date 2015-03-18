@@ -1,9 +1,9 @@
 #527A   Playing with Paper
 
-标签（空格分隔）： python
+标签： python
 
 ---
-
+重复的减，想到循环除
 ```pyhon
 import sys
 a, b = map(int, input().split())
