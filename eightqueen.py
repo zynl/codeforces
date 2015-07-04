@@ -1,3 +1,5 @@
+#!/bin/python
+
 queenList = [-1] * 8
 
 #check before row is ok
