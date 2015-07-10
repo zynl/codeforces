@@ -11,7 +11,7 @@ import urllib.request
 with urllib.request.urlopen ("http://freegeoip.net/xml/115.200.52.142") as f:
     print(f.read().decode('utf-8'))
  
- '''  
+'''  
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
         <IP>115.200.52.142</IP>
